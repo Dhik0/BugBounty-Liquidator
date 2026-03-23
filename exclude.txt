@@ -1,0 +1,4 @@
+forbidden-site.zebra.com
+dont-touch-me.shutterfly.com
+https://*.walgreens.com/
+https://*.cvs.com/
