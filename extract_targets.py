@@ -80,4 +80,4 @@ def auto_liquidate(target_domain):
 
 if __name__ == "__main__":
     # --- 你在这里改域名就行 ---
-    auto_liquidate('tines.com')
+    auto_liquidate('1111111111111111')
