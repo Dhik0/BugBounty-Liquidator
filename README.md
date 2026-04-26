@@ -1,4 +1,7 @@
 # BugBounty-Liquidator 
+#26/4/26 更新:
+1.本次更新连接了httpx 请先安装并修改HTTPX_PATH (`extract_targets.py`48行) 可过滤无效网址
+2.增加更多爬取源
 ## AI 生成声明
 本项目的所有核心源码及逻辑架构完全由 AI (Trae/Gemini) 自动生成与优化。
 人类作者 ：负责漏洞研究思路、实战资产提供、合规性把控及工具调优。
